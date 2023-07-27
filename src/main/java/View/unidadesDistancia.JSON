@@ -1,0 +1,23 @@
+{
+  "base_code": "Km",
+  "conversion_rates": {
+    "Kilómetro": 1,
+    "Hectómetro": 0.1,
+    "Decámetro": 0.01,
+    "Metro": 1000,
+    "Decímetro": 10000,
+    "Centímetro": 100000,
+    "Milímetro": 1000000,
+    "Micrómetro": 1000000000,
+    "Nanómetro": 1000000000000,
+    "Picómetro": 1000000000000000,
+    "Femtómetro": 1000000000000000000,
+    "Año luz": 1.057e-13,
+    "Distancias mayores": 9.461e-13,
+    "Pie": 3280.84,
+    "Pulgada": 39370.1,
+    "Yarda": 1093.61,
+    "Milla náutica": 0.539957,
+    "Milla terrestre": 0.621371
+  }
+}
