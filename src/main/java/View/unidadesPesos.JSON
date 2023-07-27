@@ -1,0 +1,19 @@
+{
+  "base_code": "kg",
+  "conversion_rates": {
+    "Kilogramo" : 1,
+    "Teragramo": 1e-9,
+    "Gigagramo": 1e-6,
+    "Megagramo o Tonelada métrica": 1000,
+    "Hectogramo": 0.1,
+    "Decagramo": 0.01,
+    "Gramo": 1000,
+    "Decigramo": 0.0001,
+    "Centigramo": 0.00001,
+    "Miligramo": 0.001,
+    "Microgramo": 0.000001,
+    "Nanogramo": 1e9,
+    "Picogramo": 1.0000E-12,
+    "Femtogramo": 1.0000E-18
+    }
+}
